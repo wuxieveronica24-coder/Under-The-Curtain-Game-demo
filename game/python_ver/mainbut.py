@@ -16,5 +16,6 @@ slow_print(long_mes,0.05)
 
 user_name= input("What is your name? Officer\n")
 print("\nWelcome, Officer",user_name + ".")
+print("Officer",user_name,", your age is 21. Not that it really matters, but this is the legal age to drink for certain country.")
 
 

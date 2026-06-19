@@ -1,5 +1,6 @@
 import time
 from time import sleep 
+import game.python_ver.class_set as set 
 
 speed = 0.0
 # slow print is completed with the help of stack overflow 

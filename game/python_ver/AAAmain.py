@@ -1,5 +1,7 @@
 import time
 from time import sleep 
+import class_set as set 
+import pandas as pd
 
 speed = 0.0
 # slow print is completed with the help of stack overflow 
@@ -11,7 +13,7 @@ def slow_print(the, speed):
 
 slow_print("Loading .........",0.15)
 
-long_mes ="Today you become an honorable Officer serving New Seattle State Police Dapartment. If you want to (just a reminder) serving the people of New Seattle is also an option."
+long_mes ="Today you become an honorable Officer serving New Seattle State Police Dapartment. Serving the people of New Seattle is  an always a option."
 slow_print(long_mes,0.05)
 
 user_name= input("What is your name? Officer\n")
